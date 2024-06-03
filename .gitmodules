@@ -1,7 +1,7 @@
-[submodule "themes/loveit"]
-	path = themes/loveit
+[submodule "themes/LoveIt"]
+	path = themes/LoveIt
 	url = https://github.com/dillonzq/LoveIt.git
 
 [submodule "public"]
     path = public
-    url = git@github.com:jomo0713/jomo0713.github.io.git
+    url = https://github.com/jomo0713/jomo0713.github.io.git
