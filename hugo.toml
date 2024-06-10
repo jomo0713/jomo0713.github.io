@@ -5,7 +5,7 @@ baseURL = 'https://jomo0713.github.io/'
 theme = "LoveIt"
 
 # 网站标题
-title = "我的全新 Hugo 网站"
+title = "Tianyu's Blog"
 
 # 网站语言, 仅在这里 CN 大写 ["en", "zh-CN", "fr", "pl", ...]
 languageCode = "zh-CN"
@@ -21,7 +21,7 @@ googleAnalytics = ""
 # 版权描述，仅仅用于 SEO
 copyright = ""
 
-# 是否使用 robots.txt 保证安全 控制哪些可以爬取，哪些不能爬取
+# 是否使用 robots.txt
 enableRobotsTXT = true
 # 是否使用 git 信息
 enableGitInfo = true
@@ -34,8 +34,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 # 作者配置
 [author]
   name = "Tianyu Gao"
-  email = ""
-  link = ""
+  email = "tianyugao0414@gmail.com"
+  link = "https://jomo0713.github.io/"
 
 # 菜单配置
 [menu]
@@ -71,14 +71,14 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # 网站默认主题样式 ["auto", "light", "dark"]
   defaultTheme = "auto"
   # 公共 git 仓库路径，仅在 enableGitInfo 设为 true 时有效
-  gitRepo = ""
+  gitRepo = "https://github.com/jomo0713/jomo0713.github.io.git"
   #  哪种哈希函数用来 SRI, 为空时表示不使用 SRI
   # ["sha256", "sha384", "sha512", "md5"]
   fingerprint = ""
   #  日期格式
   dateFormat = "2006-01-02"
   # 网站标题, 用于 Open Graph 和 Twitter Cards
-  title = "我的网站"
+  title = "Tianyu's Blog"
   # 网站描述, 用于 RSS, SEO, Open Graph 和 Twitter Cards
   description = "这是我的全新 Hugo 网站"
   # 网站图片, 用于 Open Graph 和 Twitter Cards
@@ -186,11 +186,11 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # Gravatar 邮箱，用于优先在主页显示的头像
       gravatarEmail = ""
       # 主页显示头像的 URL
-      avatarURL = "/images/avatar.png"
+      avatarURL = "images/avatar.png"
       #  主页显示的网站标题 (支持 HTML 格式)
       title = ""
       # 主页显示的网站副标题 (允许 HTML 格式)
-      subtitle = "这是我的全新 Hugo 网站"
+      subtitle = "fragments collecting"
       # 是否为副标题显示打字机动画
       typeit = true
       # 是否显示社交账号
@@ -208,8 +208,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
   # 作者的社交信息设置
   [params.social]
-    GitHub = "xxxx"
-    Linkedin = ""
+    GitHub = "jomo0713"
+    Linkedin = "tianyugao0414"
     Twitter = "xxxx"
     Instagram = "xxxx"
     Facebook = "xxxx"
@@ -619,5 +619,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   page = ["HTML", "MarkDown"]
   section = ["HTML", "RSS"]
   taxonomy = ["HTML", "RSS"]
-  #taxonomyTerm = ["HTML"]
+  taxonomyTerm = ["HTML"]
+
+
 
