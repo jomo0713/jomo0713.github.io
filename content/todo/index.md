@@ -95,7 +95,7 @@ draft: false
 </style>
 
 <div class="todo-container">
-    <h2 id="todo-title">To-Do List</h2>
+    <h2>To-Do List</h2>
     <input type="text" id="new-todo" placeholder="Add a new task">
     <button onclick="addTodo()">Add</button>
     <ul id="todo-list"></ul>
@@ -156,7 +156,6 @@ draft: false
             listItem.innerHTML = '<input type="checkbox" onclick="markComplete(this)"' + (todo.checked ? ' checked' : '') + '>' + todo.text + ' <button onclick="removeTodo(this)">Delete</button>';
             todoList.appendChild(listItem);
         });
-        document.getElementById("todo-title").innerText = "To-Do List for " + date;
         console.log("Loaded tasks for", date, ":", localStorage.getItem(date));
     }
 
