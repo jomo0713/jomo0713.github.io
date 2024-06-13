@@ -67,6 +67,15 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     url = "/categories/"
     title = ""
 
+  [[menu.main]]
+  weight = 4
+  identifier = "todo"
+  pre = ""
+  post = ""
+  name = "todo list"
+  url = "/todo/"
+  title = ""
+
 [params]
   # 网站默认主题样式 ["auto", "light", "dark"]
   defaultTheme = "auto"
