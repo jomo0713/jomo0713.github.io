@@ -1,6 +1,6 @@
 ---
 weight: 4
-title: "北京中轴线"
+title: "北京中轴线巡礼"
 date: 2024-08-04T19:50:00+08:00
 lastmod: 
 draft: false
@@ -9,7 +9,7 @@ author: "Tianyu"
 description: "这篇文章是北京中轴线建筑群访古回顾"
 
 
-featuredImagePreview: /post1img/feature.png
+featuredImagePreview: /post2img/feature.png
 tags: ["访古"]
 categories: ["游记"]
 
@@ -21,30 +21,108 @@ lightgallery: true
   <img src="/post2img/image1.jpeg" alt="描述文字" style="width:80%; height:auto;">
 </p>
 
-《Aftersun》看了三次，前两次看我的关注点都在Calum身上，感受他的痛苦和无助。今天抽空又去回看了一遍，这一次我没有让自己沉溺在悲喜交织的氛围中，记录了我发现的细节过后，没有再太多共情Calum，而是感受到更多Sophie的情感。
-# 是回忆还是真实？
+# 钟鼓楼
 
-电影结局可以看见成年的Sophie看完了之前的录像带，因此电影的内容可以认为是成年Sophie的回忆，她极力想了解幼年时的自己错过了哪些父亲深埋着的痛苦，这也解释了电影中父亲那晚跑去海滩，但是Sophie回到酒店后，Calum已经烂醉在床上的矛盾点，这或许是成年Sophie在试图自己填补那段记忆空白。因此电影内容并不一完全是真实经历，而可能是经过Sophie脑海中演绎的过去。
-# 滑翔伞的失控坠落
+钟鼓楼是北京中轴线上的标志性建筑，结构和外观各具特色。鼓楼的建筑结构为三重檐，采用歇山顶设计，雄伟壮观。钟楼则是重檐歇山顶，相比鼓楼显得更为纤细高挑，因此有“鼓楼胖钟楼瘦”的说法。地安门到钟鼓楼这一段街道，是北京最早的商业街之一，历史悠久，但如今老店已难寻觅。
+<!-- ![](/post2img/image0.png) -->
+<p style="text-align: center;">
+  <img src="/post2img/image2.jpg" alt="鼓楼" style="width:80%; height:auto;">
+  <br><strong>鼓楼</strong>
+</p>
 
-刚进入酒店时，Calum让Sophie去交朋友，Sophie说他太小了，Sophie问你怎么不和她父母交朋友，Calum说他太大了，父女都身处在生命中的错位
+<!-- ![](/post2img/image0.png) -->
+<p style="text-align: center;">
+  <img src="/post2img/image3.jpg" alt="描述文字" style="width:80%; height:auto;">
+  <br><strong>鼓楼</strong>
+</p>
+ps 没有从正面取经，下次可以买票进去
 
-Sophie虽然刚步入青春期，但显然更早的显示出少见的成熟.她尝试融入更大的孩子，也会对父亲讲只要共处于同一片蓝天之下、抬头仰望同一个太阳，即使我们不在一个空间里，某种程度上我们还是在“一起”来填补父亲的陪伴
+# 万宁桥
 
-Calum31岁，早已为人父，但是一事无成，他被迫需承担起父亲的责任，年龄问题过度的敏感显示出他的迷茫，他或许并不知道应该如何扮演好自己的角色。
+万宁桥位于什刹海前海，是元朝时期的建筑遗存，也是北京中轴线上为数不多的未复建的古老桥梁之一。万宁桥为单孔汉白玉石拱桥，桥两侧有精美的汉白玉石护栏，历经岁月依然风采不减。
+<p style="text-align: center;">
+  <img src="/post2img/image4.jpg" alt="鼓楼" style="width:80%; height:auto;">
+  
+</p>
 
-Sophie只要随着时间长大，就会度过这段青春期，但Calum，随着抑郁症愈演愈烈，他似乎找不到了人生定位，他试图做出努力，太极和冥想都是想从情绪下挣脱，工作上貌似也尝试做出过努力，想和朋友做些什么，自己也还没想清楚。
+桥头镇守着神兽“趴蝮”，它是龙生九子之一，生性喜水，负责守护河道，捕食河妖，象征着风调雨顺，保佑一方安宁。神兽手中紧握水球，神态威严。
+<p style="text-align: center;">
+  <img src="/post2img/image5.jpg" alt="鼓楼" style="width:40%; height:auto;">
+  
+</p>
+<p style="text-align: center;">
+  <img src="/post2img/image6.jpg" alt="鼓楼" style="width:40%; height:auto;">
+  
+</p>
 
-这样的错位关系使得Calum和Sophie有过几次不算冲突的冲突，第一次是在潜水时，Sophie没接住泳镜，当回到船上，Sophie感受到气氛的凝重，Sophie忙过去道歉，说知道泳镜很贵，Calum发现了自己的失态，忙隐藏起来自己的坏情绪。还有一次，Sophie报名了卡拉OK，但Calum坚决不上台，是害羞么，可是Sophie说自从5岁开始，他们都会登台演出，Calum只是想借夜色覆盖自己的情绪，所以他不想保留在聚光灯下，当Sophie唱罢，Calum找借口说如果你对唱歌有兴趣我们可以去报一个声乐班，Sophie回怼我知道你没有钱
+# 景山公园
 
-金钱上的捉襟见肘况且还有解决途径，当他无法在短暂的陪伴中引导Sophie成长或许更是压垮骆驼的最后一根稻草
+景山公园的山脊东西向延伸，山上分布着五座小亭，分别为东面的周赏亭、观妙亭，中央的万春亭，西面的辑芳亭和富览亭。万春亭位于最高点，也是北京城的中心所在，登上亭顶可以俯瞰故宫全景。这五座亭子是一组佛教建筑群，供奉着五方佛，但是游客无法进入，也就无法一探究竟。
 
-旅行中，Calum一直都是和女儿一起的，他尝试过教导青春期的女儿，有一次，Calum在教女儿自卫技能，但是被女儿的一句如果他们攻击我时并没抓我手腕应该怎么办，他有限的努力也让Sophie的反问显得毫无意义。还有一次是Sophie说昨天和男孩亲吻了后，Calum反复说以后发生任何事都可以告诉他，表现Calum的无力感，他清楚自己将在Sophie的成长中缺席，但还是希望女儿可以将全部事与他分享。
+<p style="text-align: center;">
+  <img src="/post2img/image7.jpg" alt="鼓楼" style="width:80%; height:auto;">
+  
+</p>
 
-毫无疑问，Calum是深爱着女儿的，尽管Calum陷入了自我迷失中，他依然在大部分时间内充满能量，来完成这最后的旅行，客观来说，他已经是一个优秀的父亲了，Sophie的长久思念证明了这点，虽然他长久缺失在Sophie的成长中，但还是清晰的活在Sophie的记忆之中。只是心理疾病以及电影之外未描述的诸事不顺使得他不得不陷入自我谴责的怪圈。
+<p style="text-align: center;">
+  <img src="/post2img/image8.jpg" alt="鼓楼" style="width:80%; height:auto;">
+  
+</p>
+看天气预报比平常温度低了三四度，遂决定出行，但是其实这天天气异常闷热，能进度很差，下次来补拍一个高清故宫。
 
-# 不必回望，它终将堕入海中
+# 故宫（待补充）
+暑假人真的太多了，等天气凉快了，人少了，抽一天看看能不能看完故宫。
+# 太庙
+游完景山公园，又绕到故宫东侧，来逛下太庙，太庙先为北京市劳动人民文化宫，小红书有的说太庙还在修缮，有的说修好了，到了发现还是进不去，那就看看高墙外的古树吧
 
-虽然Calum在旅途中逐渐走向崩溃，但又怎可能被11岁的Sophie捕捉到呢
+<p style="text-align: center;">
+  <img src="/post2img/image9.jpg" alt="鼓楼" style="width:80%; height:auto;">
+  
+</p>
 
-两次Calum崩溃的展现，一次是在卡拉OK后Sophie想要自己在外面待会的同时描写了Calum独自一人走向黑暗中的大海中，一次是CALUM在看到大家一起对他唱生日快乐歌，他麻木的矗立在那之后，Sophie在长大之后不停的想象父亲在这次旅行中隐藏起来的痛苦，他回想自己是否忽略父亲发出的求救信号，这份情感不断的在Sophie心中积压，在故事结尾，镜头不断在幼年Sophie和成年Sophie切换，一边是Calum兴奋的拉着Sophie在舞厅中随着Queen&David Bowie的“Under Pressure”跳舞，一边是成年Sophie走入舞池，愤怒的向父亲挥拳，转而又试图紧紧拥抱，在之后只能旁观着父亲惊恐地坠入黑暗的漩涡中。Sophie始终无法与过去和解，把父亲的结果归结于自己的行为造成的。但事实显然不是如此，成年人逐渐走向崩溃，但又怎可能被11岁的Sophie捕捉并拯救。
+# 端门
+从太庙西门出来，可以来到故宫前门的入口，午门。午门的平面呈“凹”字形，继承了隋唐洛阳城紫微宫应天门和宋朝宫殿丹凤门的设计风格。气势恢宏，是古代皇权的象征。
+
+<p style="text-align: center;">
+  <img src="/post2img/image10.jpg" alt="鼓楼" style="width:80%; height:auto;">
+  
+</p>
+
+# 社稷坛
+
+再往西走，来到了中山公园，社稷坛位于中山公园内，是皇帝祭祀土地和谷物神的地方。坛上种植着代表五方的五色土，象征着国家的统一和丰收的希望。
+
+
+<p style="text-align: center;">
+  <img src="/post2img/image11.jpg" alt="鼓楼" style="width:80%; height:auto;">
+  
+</p>
+
+中山堂，原是拜殿，是明清两代皇帝在社稷坛祭祀时休息的地方，或遇风雨时进行礼仪的场所。1925年，孙中山病逝于北京，并在此停灵。为了纪念这位伟人，1928年，国民政府将“拜殿”正式更名为“中山堂”。
+
+<p style="text-align: center;">
+  <img src="/post2img/image12.jpg" alt="鼓楼" style="width:80%; height:auto;">
+  <br><strong>社稷坛中的五色土</strong>
+</p>
+
+# 正阳门（待补充）
+
+# 天坛（待补充）
+
+# 永定门
+和老外在公园门口的自动闸门门口站了很久，其实只要靠近，闸机就会打开，笑死。
+
+
+永定门是北京城南端的重要历史建筑，位于中轴线的最南端。它最初建于明朝嘉靖年间，是北京外城的正门，也是北京内外城的重要连接点。永定门不仅是当时防御体系的一部分，还是皇帝南巡时的重要出入口。
+
+
+永定门最初的建筑结构包括一座巨大的城门楼、箭楼和连接两者的瓮城。箭楼的作用是防御外敌，而瓮城则是一个半圆形的空间，敌人进入翁城，守军将会利用地形优势对其进行歼灭。
+
+<p style="text-align: center;">
+  <img src="/post2img/image13.jpg" alt="鼓楼" style="width:80%; height:auto;">
+ 
+</p>
+
+<p style="text-align: center;">
+  <img src="/post2img/image14.jpg" alt="鼓楼" style="width:80%; height:auto;">
+  
