@@ -2,15 +2,19 @@
 name: douban
 on: 
   schedule:
-  - cron: "30 * * * *"
-
+  - cron: "0 0,0,12,23 * * *"
+  watch:
+    types: [started]
 jobs:
   douban:
     name: Douban mark data sync
     runs-on: ubuntu-latest
     steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+      
     - name: movie
-      uses: 187848826/doumark-action@master
+      uses: lizheming/doumark-action@master
       with:
         id: 187848826
         type: movie
@@ -19,7 +23,7 @@ jobs:
         #notion_token: ${{ secrets.notion_token }}
         
     - name: book
-      uses: 187848826/doumark-action@master
+      uses: lizheming/doumark-action@master
       with:
         id: 187848826
         type: book
@@ -27,7 +31,7 @@ jobs:
         dir: ./data/douban
         #notion_token: ${{ secrets.notion_token }}
     - name: Commit
-      uses: EndBug/add-and-commit@v8
+      uses: EndBug/add-and-commit@v9
       with:
         message: 'chore: update douban data'
         add: './data/douban'
