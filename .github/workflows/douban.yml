@@ -14,15 +14,20 @@ jobs:
       with:
         id: jomo
         type: movie
-        format: notion
-        dir: xxxx
-        notion_token: ${{ secrets.notion_token }}
+        format: csv
+        dir: ./data/douban
+        #notion_token: ${{ secrets.notion_token }}
         
-    - name: music
+    - name: book
       uses: jomo/doumark-action@master
       with:
         id: jomo
-        type: music
-        format: notion
-        dir: xxxx
-        notion_token: ${{ secrets.notion_token }}
+        type: book
+        format: csv
+        dir: ./data/douban
+        #notion_token: ${{ secrets.notion_token }}
+    - name: Commit
+      uses: EndBug/add-and-commit@v8
+      with:
+        message: 'chore: update douban data'
+        add: './data/douban'
