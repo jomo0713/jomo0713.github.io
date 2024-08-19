@@ -76,6 +76,15 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   url = "/todo/"
   title = ""
 
+  [[menu.main]]
+  weight = 4
+  identifier = "bookandmoive"
+  pre = ""
+  post = ""
+  name = "书影集"
+  url = "/bookandmoive/"
+  title = ""
+
 [params]
   # 网站默认主题样式 ["auto", "light", "dark"]
   defaultTheme = "auto"
