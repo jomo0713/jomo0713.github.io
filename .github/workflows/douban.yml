@@ -10,18 +10,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: movie
-      uses: jomo/doumark-action@master
+      uses: 187848826/doumark-action@master
       with:
-        id: jomo
+        id: 187848826
         type: movie
         format: csv
         dir: ./data/douban
         #notion_token: ${{ secrets.notion_token }}
         
     - name: book
-      uses: jomo/doumark-action@master
+      uses: 187848826/doumark-action@master
       with:
-        id: jomo
+        id: 187848826
         type: book
         format: csv
         dir: ./data/douban
