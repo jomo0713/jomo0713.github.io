@@ -2,7 +2,7 @@ name: douban
 on:
   push:
     branches:
-      - source
+      - main
   workflow_dispatch:
     inputs:
       douban-name:
@@ -37,8 +37,7 @@ jobs:
       - name: Commit changes
         uses: EndBug/add-and-commit@v8
         with:
-          author_name: jomo0713  # 提交者的GitHub用户名
-          author_email: 17337810407@163.com  # 提交者的电子邮件
+          author_name: DOUBAN Sync  # 提交者的GitHub用户名
+          author_email: DOUBAN Sync  # 提交者的电子邮件
           message: 'Automatically commit changes'  # 提交信息
           add: '.'  # 添加当前目录下的所有变更
-
