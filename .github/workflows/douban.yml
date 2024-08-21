@@ -1,36 +1,44 @@
-# .github/workflows/douban.yml
 name: douban
-on: 
-  schedule:
-  - cron: "30 * * * *"
-  
+on:
+  push:
+    branches:
+      - source
+  workflow_dispatch:
+    inputs:
+      douban-name:
+        description: 'DouBan Id'
+        required: false  
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 jobs:
-  douban:
-    name: Douban mark data sync
+  sync:
+    name: Douban Sync
     runs-on: ubuntu-latest
+    env:
+      DOUBAN_NAME: ${{ github.event.inputs.douban-name || secrets.DOUBAN_NAME  }}
+      REF: ${{ github.ref }}
+      REPOSITORY: ${{ github.repository }}
+      YEAR: ${{ vars.YEAR }}
     steps:
-    - name: Checkout
-      uses: actions/checkout@v2
-      
-    - name: movie
-      uses: lizheming/doumark-action@master
-      with:
-        id: 187848826
-        type: movie
-        format: csv
-        dir: ./data/douban
-        #notion_token: ${{ secrets.notion_token }}
-        
-    - name: book
-      uses: lizheming/doumark-action@master
-      with:
-        id: 187848826
-        type: book
-        format: csv
-        dir: ./data/douban
-        #notion_token: ${{ secrets.notion_token }}
-    - name: Commit
-      uses: EndBug/add-and-commit@v8
-      with:
-        message: 'chore: update douban data'
-        add: './data/douban'
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.11
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r scripts/douban-requirements.txt
+      - name: Douban Movie sync
+        run: |
+          python -u scripts/douban.py  
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v8
+        with:
+          author_name: jomo0713  # 提交者的GitHub用户名
+          author_email: 17337810407@163.com  # 提交者的电子邮件
+          message: 'Automatically commit changes'  # 提交信息
+          add: '.'  # 添加当前目录下的所有变更
+
